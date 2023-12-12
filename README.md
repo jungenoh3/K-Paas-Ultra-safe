@@ -1,16 +1,5 @@
-# eqms_test
+# 2023 디지털 사회혁신 서비스 개발, 아이디어 공모전
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 본 링크는 서비스가 되는 어플리케이션의 코드입니다.
+- 자세한 설명은 기획서를 참고 부탁드립니다.
+- 안드로이드 apk 파일 - 실행 가능
