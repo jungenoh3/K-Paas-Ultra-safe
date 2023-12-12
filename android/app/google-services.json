@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727450433912",
+    "project_id": "eq-64f1a",
+    "storage_bucket": "eq-64f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727450433912:android:ec7349a3fdb1c7a538308d",
+        "android_client_info": {
+          "package_name": "com.example.eqms_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727450433912-a3v76mogqot5pot1gu821sej53usabgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvyeVFykYoekGLB4Xmm6ZyMbTXbJuH34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727450433912-a3v76mogqot5pot1gu821sej53usabgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
