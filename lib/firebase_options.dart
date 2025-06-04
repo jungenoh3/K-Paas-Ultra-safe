@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBxvyeVFykYoekGLB4Xmm6ZyMbTXbJuH34',
-    appId: '1:727450433912:android:ec7349a3fdb1c7a538308d',
-    messagingSenderId: '727450433912',
+    apiKey: '-',
+    appId: '1:-:android-',
+    messagingSenderId: '-',
     projectId: 'eq-64f1a',
     storageBucket: 'eq-64f1a.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC4tRZDIM65JkuA99YQ373odTRGbEckx98',
-    appId: '1:727450433912:ios:58496af18cd2a90938308d',
+    apiKey: '-',
+    appId: '1:-:ios:-',
     messagingSenderId: '727450433912',
     projectId: 'eq-64f1a',
     storageBucket: 'eq-64f1a.appspot.com',
-    iosClientId: '727450433912-gbh3lkv1knbhjsn1ctfcvpk9822lhqdn.apps.googleusercontent.com',
+    iosClientId: '-.apps.googleusercontent.com',
     iosBundleId: 'com.example.eqmsTest',
   );
 }
