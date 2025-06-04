@@ -14,7 +14,7 @@ class SensorSSE {
   Future<Map<String, dynamic>> startListening(String sensorId) async {
     print('startListening: $sensorId');
 
-    final url = Uri.parse('http://ingress-ngi-ingress-ngin-d7bea-21029333-dbc80b33461c.kr.lb.naverncp.com/sensor/sensorKafka/server-events?sensorId=$sensorId');
+    final url = Uri.parse('http://-/sensor/sensorKafka/server-events?sensorId=$sensorId');
     final response = await client.send(http.Request('GET', url));
     int temp_num = Random().nextInt(1000);
     if (response.statusCode == 200){
