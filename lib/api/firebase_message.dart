@@ -130,7 +130,7 @@ class FirebaseMessageApi {
     initPushNotifications();
     initLocalNotification();
 
-    // final url = Uri.parse('http://192.168.0.12:1234/FCMToken/check');
+    // final url = Uri.parse('http://-/FCMToken/check');
     // try {
     //   final http.Response response = await http.post(url, body: fCMToken)
     //       .timeout(const Duration(seconds: 10), onTimeout: () {
